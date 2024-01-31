@@ -1,4 +1,4 @@
-#Front-end Site Apple
+# Front-end Site Apple
 
 PT-BR: Esse é um pequeno projeto criado para a avaliação de minhas habilidades técnicas para o Front-end, neste projeto foram utilizadas as seguintes ferramentas: HTML5 e CSS3.
 Link Para o figma utilizado como base: https://www.figma.com/community/file/1175869172569168844
